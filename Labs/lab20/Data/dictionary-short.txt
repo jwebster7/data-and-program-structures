@@ -1,4 +1,0 @@
-cab
-car
-cart
-dog
