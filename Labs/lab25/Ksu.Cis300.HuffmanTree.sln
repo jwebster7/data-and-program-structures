@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.HuffmanTree", "Ksu.Cis300.HuffmanTree\Ksu.Cis300.HuffmanTree.csproj", "{CE40FC60-2319-46F9-8585-A17B97F2945B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE40FC60-2319-46F9-8585-A17B97F2945B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE40FC60-2319-46F9-8585-A17B97F2945B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE40FC60-2319-46F9-8585-A17B97F2945B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE40FC60-2319-46F9-8585-A17B97F2945B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA330F6E-B2AB-401B-A5B1-56C726949A72}
+	EndGlobalSection
+EndGlobal
